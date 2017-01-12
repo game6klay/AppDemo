@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "449964155829",
+    "project_id": "surveyapp-97e86"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449964155829:android:122f2a0ce59a3a27",
+        "android_client_info": {
+          "package_name": "com.example.patja2r.test1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnKiFKy47hIrrXD5SR0kc10tg0INT2lqw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
